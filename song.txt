@@ -5,4 +5,8 @@ on this theire chosen battle field
 
 Form the lines
 Shield by shield
+<<<<<<< HEAD
 some content amend
+=======
+some content
+>>>>>>> 1ff246c40f1263b1daf00d4164f344851d51e072
